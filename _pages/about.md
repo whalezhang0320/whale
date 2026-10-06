@@ -16,10 +16,6 @@ description: 吉林大学计算机科学与技术硕士研究生，关注 AI Age
         <a class="button secondary" href="https://github.com/whalezhang0320" target="_blank" rel="noreferrer">GitHub ↗</a>
       </div>
     </div>
-    <div class="portrait-wrap">
-      <img class="portrait" src="{{ '/images/zhang-shunhao.png' | relative_url }}" alt="张顺浩的证件照" width="217" height="217">
-      <p class="portrait-caption">Jilin University · Changchun</p>
-    </div>
   </section>
 
   <section class="quick-facts" aria-label="个人概览">
@@ -128,4 +124,3 @@ description: 吉林大学计算机科学与技术硕士研究生，关注 AI Age
     <a class="button" href="mailto:whale_zhang0320@163.com">whale_zhang0320@163.com</a>
   </section>
 </div>
-
