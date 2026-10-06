@@ -9,8 +9,7 @@ description: 吉林大学计算机科学与技术硕士研究生，关注 AI Age
   <section class="hero" aria-labelledby="hero-title">
     <div>
       <p class="eyebrow">Backend Engineering · AI Agents · Offline RL</p>
-      <h1 id="hero-title">张顺浩<span>把研究想法变成可靠、可运行的系统。</span></h1>
-      <p class="hero-copy">吉林大学计算机科学与技术硕士研究生。关注 AI Agent、后端工程与离线强化学习，喜欢从算法、系统到工程交付完整地解决问题。</p>
+      <h1 id="hero-title">张顺浩</h1>
       <div class="hero-actions">
         <a class="button primary" href="mailto:whale_zhang0320@163.com">联系我</a>
         <a class="button secondary" href="https://github.com/whalezhang0320" target="_blank" rel="noreferrer">GitHub ↗</a>
