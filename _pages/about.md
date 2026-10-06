@@ -24,8 +24,8 @@ description: 吉林大学计算机科学与技术硕士研究生，关注 AI Age
     <div class="fact"><strong>研究方向</strong><span>AI Agent · Offline RL</span></div>
   </section>
 
-  <section class="section" id="experience">
-    <div class="section-title"><p class="section-kicker">Experience</p><h2>经历</h2></div>
+  <section class="section" id="internship">
+    <div class="section-title"><p class="section-kicker">Internship</p><h2>实习经历</h2></div>
     <div class="timeline">
       <article class="entry">
         <p class="entry-date">2026.05 — 2026.09</p>
@@ -39,6 +39,12 @@ description: 吉林大学计算机科学与技术硕士研究生，关注 AI Age
           </ul>
         </div>
       </article>
+    </div>
+  </section>
+
+  <section class="section" id="education">
+    <div class="section-title"><p class="section-kicker">Education</p><h2>学历</h2></div>
+    <div class="timeline">
       <article class="entry">
         <p class="entry-date">2024.08 — 至今</p>
         <div>
@@ -113,14 +119,5 @@ description: 吉林大学计算机科学与技术硕士研究生，关注 AI Age
       <div class="skill-group"><h3>后端工程</h3><p>Gin · GORM · gRPC · Kafka</p></div>
       <div class="skill-group"><h3>数据与基础设施</h3><p>Redis · MySQL · Docker · Prometheus</p></div>
     </div>
-  </section>
-
-  <section class="contact-panel" id="contact">
-    <div>
-      <p class="section-kicker">Contact</p>
-      <h2>想聊聊 AI、后端系统或强化学习？</h2>
-      <p>欢迎通过邮箱联系，我会尽快回复。</p>
-    </div>
-    <a class="button" href="mailto:whale_zhang0320@163.com">whale_zhang0320@163.com</a>
   </section>
 </div>
